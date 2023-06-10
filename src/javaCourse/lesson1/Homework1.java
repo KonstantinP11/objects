@@ -8,7 +8,6 @@ public class Homework1 {
                 + sunday.getAuthor().getFirstName() + " " + sunday.getAuthor().getLastName()
                 + " опубликована в " + sunday.getYear() + " году");
         sunday.setYear(1888);
-
         System.out.println("sunday.getYear() = " + sunday.getYear());
 
     }
