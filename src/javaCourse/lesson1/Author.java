@@ -17,4 +17,11 @@ public class Author {
         return this.lastName;
     }
 
+    public String toString() {
+        return "Автор " + this.firstName + " " + this.lastName;
+    }
+
+    public boolean equals(Author author) {
+        return firstName.equals(author.firstName) && lastName.equals(author.lastName);
+    }
 }

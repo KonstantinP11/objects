@@ -9,6 +9,16 @@ public class Homework1 {
                 + " опубликована в " + sunday.getYear() + " году");
         sunday.setYear(1888);
         System.out.println("sunday.getYear() = " + sunday.getYear());
-
+        System.out.println(tolstoy);
+        System.out.println(sunday);
+        Author tolstoy1 = new Author("Lev", "Tolstoy");
+        System.out.println(tolstoy1.equals(tolstoy));
+        Author t = tolstoy;
+        System.out.println(tolstoy.equals(t));
+        Book book = new Book("Sunday", tolstoy, 1888);
+        System.out.println(book.equals(sunday));
+        System.out.println(book.hashCode());
+        System.out.println(sunday.hashCode());
+        System.out.println(sunday.hashCode() == book.hashCode());
     }
 }
