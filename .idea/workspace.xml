@@ -7,8 +7,6 @@
     <list default="true" id="73c9a60e-3fa3-499e-8d36-6607fbcd7907" name="Changes" comment="init commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/javaCourse/lesson1/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaCourse/lesson1/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaCourse/lesson1/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaCourse/lesson1/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaCourse/lesson1/Homework1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaCourse/lesson1/Homework1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,24 +28,57 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e6b6ad4a-0c65-4a99-b83d-e388e9acbce9" />
+        <option name="url" value="https://github.com/KonstantinP11/objects.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectId" id="2R03NEjXuTY6gVediRoPPMlA9jT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/perev/IdeaProjects/hw5June",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/perev/IdeaProjects/hw5June&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaCourse.lesson1.Homework1" />
+      <module name="hw5June" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaCourse.lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Homework1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,6 +89,7 @@
       <updated>1686373131984</updated>
       <workItem from="1686373132997" duration="1997000" />
       <workItem from="1686376963201" duration="8960000" />
+      <workItem from="1686545476839" duration="2855000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1686373835308</created>
